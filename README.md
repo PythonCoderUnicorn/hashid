@@ -1,5 +1,5 @@
 # hashid
-my version of blackpoit's original hash-identifier https://github.com/blackploit/hash-identifier
+my version of blackploit's original hash-identifier https://github.com/blackploit/hash-identifier
 
 ---
 My version has color added and emoji in program exit
